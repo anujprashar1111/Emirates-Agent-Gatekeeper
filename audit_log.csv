@@ -1,0 +1,50 @@
+Date and Time,Customer Name,AI Agent Name,Requested Action,Amount in INR,Final Decision,Rule Number,Reason
+2026-11-20 09:15:00,Aarav Sharma,Emirates Concierge AI,Agent Registration,0.00,REGISTERED,REGISTRATION,New AI agent 'Emirates Concierge AI' registered for customer 'Aarav Sharma' with ACTIVE trust status. Notes: Official Emirates Virtual Concierge
+2026-11-19 08:20:00,Rohan Mehra,Rogue AutoBooker v2,Agent Registration,0.00,REGISTERED,REGISTRATION,New AI agent 'Rogue AutoBooker v2' registered for customer 'Rohan Mehra' with ACTIVE trust status. Notes: Automated rapid booking bot
+2026-11-24 09:12:45,Rohan Mehra,Rogue AutoBooker v2,Agent Revocation,0.00,REVOKED,REVOCATION,AI agent 'Rogue AutoBooker v2' permanently REVOKED at 2026-11-24 09:12:45. Reason: Unauthorized booking flood detected. Agent barred from future requests.
+2026-11-24 10:15:22,Aarav Sharma,Emirates Concierge AI,View fares,0.00,ALLOWED,R3,View fares allowed for known active agent
+2026-11-24 11:30:10,Priya Nair,Emirates Concierge AI,Book flight,14500.00,ALLOWED,R4,Booking allowed within authorized limit
+2026-11-24 12:05:44,Rohan Mehra,Rogue AutoBooker v2,Book flight,8000.00,BLOCKED,R2,Credentials were REVOKED on 2026-11-24 09:12:45
+2026-11-24 13:20:00,Sameer Joshi,Siri Travel Assistant,Book flight,42000.00,REQUIRES CONFIRMATION,R5,Booking above 20000 requires customer confirmation
+2026-11-24 15:26:11,Aarav Sharma,Emirates Concierge AI,Book flight,12500.00,ALLOWED,R4,"Booking up to ₹20,000 allowed within customer-authorised spending limits: Amount ₹12,500.00 is within the ₹20,000 autonomous threshold and the customer-authorised limit of ₹20,000.00."
+2026-11-24 15:37:26,Anuj,travelbot,View fares,0.00,BLOCKED,R1,Unknown agent blocked: AI agent 'travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:37:43,Anuj,travelbot,View fares,0.00,BLOCKED,R1,Unknown agent blocked: AI agent 'travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:37:54,Anuj,travelbot,View fares,0.00,BLOCKED,R1,Unknown agent blocked: AI agent 'travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:47:50,Anuj prashar,travelbot,View fares,0.00,BLOCKED,R1,Unknown agent blocked: AI agent 'travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:49:04,Aarav sharma,travelbot,View fares,0.00,BLOCKED,R1,Unknown agent blocked: AI agent 'travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:49:47,Anuj,Unknownbot,Book flight,12500.00,BLOCKED,R1,Unknown agent blocked: AI agent 'Unknownbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:50:41,Anuj,travelbot,View fares,0.00,BLOCKED,R1,Unknown agent blocked: AI agent 'travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:51:38,Anuj,travelbot,Book flight,35000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:51:44,Anuj,travelbot,Book flight,35000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:51:46,Anuj,travelbot,Book flight,35000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:52:17,Anuj,Travelbot,Book flight,35000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'Travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:52:37,Anuj,Travelbot,Book flight,35000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'Travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:53:25,Anuj,Travelbot,Book flight,35000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'Travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:53:27,Anuj,Travelbot,Book flight,35000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'Travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:53:33,Anuj,Travelbot,Book flight,35000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'Travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:53:34,Anuj,Travelbot,Book flight,35000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'Travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:53:38,Anuj,Travelbot,Book flight,35000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'Travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:53:39,Anuj,Travelbot,Book flight,35000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'Travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:54:15,Anuj,Travelbot,Book flight,15000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'Travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:54:17,Anuj,Travelbot,Book flight,15000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'Travelbot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:54:33,Anuj,TravelBot,Book flight,15000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'TravelBot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:54:36,Anuj,TravelBot,Book flight,15000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'TravelBot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:54:44,Anuj,TravelBot,Book flight,15000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'TravelBot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 15:59:15,Anuj,Travelbot,Agent Registration,0.00,REGISTERED,REGISTRATION,New AI agent 'Travelbot' registered for customer 'Anuj' with ACTIVE trust status.
+2026-11-24 16:00:58,Anuj,Travelbot,View fares,0.00,ALLOWED,R3,View fares allowed for known active agents: Read-only search query granted without modifying state or customer financial assets.
+2026-11-24 16:01:01,Anuj,Travelbot,View fares,0.00,ALLOWED,R3,View fares allowed for known active agents: Read-only search query granted without modifying state or customer financial assets.
+2026-11-24 16:02:22,Anuj,UnknownBot,Book flight,10000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'UnknownBot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 16:03:44,Anuj,TravelBot,Book flight,35000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'TravelBot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 16:03:57,Anuj,TravelBot,Book flight,35000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'TravelBot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 16:03:59,Anuj,TravelBot,Book flight,35000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'TravelBot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 16:04:44,Anuj,TravelBot,Book flight,15000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'TravelBot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 16:04:59,Anuj,TravelBot,Book flight,15000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'TravelBot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 16:05:05,Anuj,Unknown,Book flight,15000.00,BLOCKED,R8,Invalid request: AI agent name cannot be empty.
+2026-11-24 16:05:21,Anuj,Unknown,Book flight,15000.00,BLOCKED,R8,Invalid request: AI agent name cannot be empty.
+2026-11-24 16:05:22,Anuj,Unknown,Book flight,15000.00,BLOCKED,R8,Invalid request: AI agent name cannot be empty.
+2026-11-24 16:05:33,Anuj,TravelBot,Book flight,15000.00,BLOCKED,R1,Unknown agent blocked: AI agent 'TravelBot' is not registered in the Emirates Authorized Agent Registry.
+2026-11-24 16:05:40,Anuj,Travelbot,Book flight,15000.00,ALLOWED,R4,"Booking up to ₹20,000 allowed within customer-authorised spending limits: Amount ₹15,000.00 is within the ₹20,000 autonomous threshold and the customer-authorised limit of ₹20,000.00."
+2026-11-24 16:06:53,Anuj,Travelbot,Agent Revocation,0.00,REVOKED,REVOCATION,AI agent 'Travelbot' permanently REVOKED at 2026-11-24 16:06:53. Reason: Security compliance violation. Agent barred from future requests.
+2026-11-24 16:07:15,Anuj,Travelbot,Book flight,10000.00,BLOCKED,R2,"Revoked agent blocked: Credentials for AI agent 'Travelbot' were REVOKED on 2026-11-24 16:06:53. Under Emirates security policy, revoked agents are permanently prohibited from initiating requests."
+2026-11-24 16:09:02,Anuj,Travelbot2,Agent Registration,0.00,REGISTERED,REGISTRATION,New AI agent 'Travelbot2' registered for customer 'Anuj' with ACTIVE trust status. Notes: 20000
+2026-11-24 16:09:46,Anuj,Travelbot2,Change flight,0.00,REQUIRES CONFIRMATION,R6,"Changing a flight requires customer confirmation: Schedule modifications alter confirmed itinerary, route, or seat arrangements. Direct customer authorization is required."

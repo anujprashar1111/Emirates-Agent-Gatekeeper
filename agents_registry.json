@@ -1,0 +1,66 @@
+{
+    "Emirates Concierge AI": {
+        "agent_name": "Emirates Concierge AI",
+        "customer_name": "Aarav Sharma",
+        "status": "ACTIVE",
+        "registered_at": "2026-11-20 09:15:00",
+        "revoked_at": null,
+        "notes": "Official Emirates Virtual Travel Concierge"
+    },
+    "Amadeus TravelBot": {
+        "agent_name": "Amadeus TravelBot",
+        "customer_name": "Ananya Roy",
+        "status": "ACTIVE",
+        "registered_at": "2026-11-21 11:30:00",
+        "revoked_at": null,
+        "notes": "GDS Integrated Autonomous Travel Assistant"
+    },
+    "Siri Travel Assistant": {
+        "agent_name": "Siri Travel Assistant",
+        "customer_name": "Sameer Joshi",
+        "status": "ACTIVE",
+        "registered_at": "2026-11-22 14:05:00",
+        "revoked_at": null,
+        "notes": "Personal Device AI Agent"
+    },
+    "Expedia Corporate Agent": {
+        "agent_name": "Expedia Corporate Agent",
+        "customer_name": "Deepak Chopra",
+        "status": "ACTIVE",
+        "registered_at": "2026-11-23 16:40:00",
+        "revoked_at": null,
+        "notes": "Corporate Travel Booking Bot"
+    },
+    "Rogue AutoBooker v2": {
+        "agent_name": "Rogue AutoBooker v2",
+        "customer_name": "Rohan Mehra",
+        "status": "REVOKED",
+        "registered_at": "2026-11-19 08:20:00",
+        "revoked_at": "2026-11-24 09:12:45",
+        "notes": "Revoked due to repeated unauthorized automated booking floods"
+    },
+    "Compromised Agent-09": {
+        "agent_name": "Compromised Agent-09",
+        "customer_name": "Kunal Verma",
+        "status": "REVOKED",
+        "registered_at": "2026-11-18 13:00:00",
+        "revoked_at": "2026-11-23 22:45:10",
+        "notes": "Revoked following security key compromise alert"
+    },
+    "Travelbot": {
+        "agent_name": "Travelbot",
+        "customer_name": "Anuj",
+        "status": "REVOKED",
+        "registered_at": "2026-11-24 15:59:15",
+        "revoked_at": "2026-11-24 16:06:53",
+        "notes": "Registered customer agent"
+    },
+    "Travelbot2": {
+        "agent_name": "Travelbot2",
+        "customer_name": "Anuj",
+        "status": "ACTIVE",
+        "registered_at": "2026-11-24 16:09:02",
+        "revoked_at": null,
+        "notes": "20000"
+    }
+}
